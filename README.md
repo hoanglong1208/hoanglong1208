@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-> **Motivated 3rd-year student** at Posts and Telecommunications Institute of Technology, specializing in **Back-End Development with Spring Boot**. Passionate about designing secure, maintainable APIs and eager to contribute to high-performance systems.
+> **Motivated 4th-year student** at Posts and Telecommunications Institute of Technology, specializing in **Back-End Development with Spring Boot**. Passionate about designing secure, maintainable APIs and eager to contribute to high-performance systems.
 
 - 🎓 **Student** at Posts and Telecommunications Institute of Technology (2022 - Present)
 - 💼 **Specialization**: Backend Development with Spring Boot
