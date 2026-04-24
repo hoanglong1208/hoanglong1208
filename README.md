@@ -1,7 +1,7 @@
 # Hi, I'm Hoàng Phi Long 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Backend+%26+Full-Stack+Developer;Spring+Boot+%7C+Next.js+%7C+AI+Search;PTIT+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Engineer;Backend+Architecture+%26+APIs;AI+Search+%26+Recommendation+Systems;Always+curious%2C+always+building" alt="Typing SVG" />
 </div>
 
 ---
