@@ -6,7 +6,7 @@
 
 ---
 
-Backend-leaning full-stack developer — **Spring Boot**, **Next.js**, and **AI-powered search / recommendation systems**. Final year IT student at **PTIT**, Ho Chi Minh City.
+Software engineer passionate about **backend architecture** and **AI-powered search systems** — building things with Spring Boot, Next.js, and a curious mind. Final year IT student at **PTIT**, Ho Chi Minh City.
 
 📧 hoangphilong1208@gmail.com · 📱 +84 908 706 795
 
