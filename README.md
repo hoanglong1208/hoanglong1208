@@ -55,7 +55,6 @@ Software engineer passionate about **backend architecture** and **AI-powered sea
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoanglong1208&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglong1208&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 🤝 Connect
